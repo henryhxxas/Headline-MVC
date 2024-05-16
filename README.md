@@ -1,2 +1,2 @@
 # Item-NewsHeadline
-微头条项目
+使用mvc实现的微头条项目
